@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.slider__title{
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    top: 23rem;
+    z-index: 100;
+    color: #fff;
+    text-transform: uppercase;
+    padding: 0 4rem;
+    font-family: 'Roboto', sans-serif;
+    text-shadow: 0 0 1rem #000;
+}

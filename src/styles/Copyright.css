@@ -1,0 +1,17 @@
+.copyright {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 52px;
+    margin-right: 50px;
+    padding-bottom: 10px;
+}
+
+
+.copyright p {
+    color: #8C8C94;
+}
+
+.brandLive{
+    height: 30px;
+    width: 30px;
+}

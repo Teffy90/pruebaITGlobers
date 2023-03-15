@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.title_newslatter{
+    margin-bottom: 5%;
+    margin-top: 51px;
+    text-align: center;
+}
+
+
+.title_h4 {
+    color: #8C8C94;
+}
+
+.buttonForm{
+    margin: auto;
+    text-align: center;
+}

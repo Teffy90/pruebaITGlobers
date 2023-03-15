@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.title{
+    margin-top: 5%;
+    bottom: 451px;
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+.title_socialNetwork a {
+    color: #000000;
+    text-decoration: none;
+}
+
+.title_h4 {
+    color: #8C8C94;
+}
+
+.link {
+    text-decoration:none;
+    color: black;
+}

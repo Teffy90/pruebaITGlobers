@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.footer {
+    box-shadow: 0 0 3px 0 rgba(0, 0, 0, .5);
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 10px;
+    margin-top: 200px;
+}
+
+.logoPufi {
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+.list_products{
+    margin-top: 20px;
+}
+
+.options{
+    margin-top: 20px;
+    display: flex;
+}
+
+.sale{
+    margin-top: 20px;
+}
+
+
+
+.socialNetwork{    
+    margin-top: 20px;
+    align-items: center;
+    display: flex;
+}
+
+.socialNetwork img {
+    height: 30px;
+    margin-left: 22px;
+    width: 30px;
+}

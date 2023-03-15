@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.ButtonPruduct{
+    height: 50px;
+    margin-left: 41%;
+    margin-top: 51%;
+    text-align: center;
+    width: 150px;
+}
+
+#pantalla-dividida{
+    display: flex;
+}
+
+.cardImg7{
+    background-image: url(../img/img7.jpg);
+    background-size: cover;
+    background-position: center;
+    height:40rem;
+    width: 50%;
+}
+
+.cardImg3{
+    background-image: url(../img/img3.png);
+    background-size: cover;
+    background-position: center;
+    height:40rem;
+    width: 50%;
+}
+
+
+.cardImg4{
+    background-image: url(../img/img4.png);
+    background-size: cover;
+    background-position: center;
+    height:40rem;
+    width: 50%;
+}
+
+
+.cardImg5{
+    background-image: url(../img/img5.png);
+    background-size: cover;
+    background-position: center;
+    height:40rem;
+    width: 50%;
+}
+
+
+.cardText{
+    height:40rem;
+    width: 50%;
+    margin: auto;
+    text-align: center;   
+}
+
+.cardText img {
+    width: 30%;
+}
+
+
+.title{
+    font-size: 40px;
+    width: 50%;
+    margin: auto;
+}
+
+.link {
+    text-decoration:none;
+    color: black;
+}
+
+.p{
+    font-size: 19px;
+    line-height: 30px;
+    width: 50%;
+    margin: auto;
+}
